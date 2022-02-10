@@ -1,3 +1,6 @@
+## DEMO
+https://timer-e432d.web.app/#/
+
 # Quasar App (timer)
 
 A Quasar Framework app
